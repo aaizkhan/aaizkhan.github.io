@@ -2,6 +2,8 @@
 
 This repository hosts GitHub Pages content for:
 
+Use `yourusername` as a placeholder and replace it with your actual GitHub username.
+
 - Site: https://yourusername.github.io/
 - App ads file: https://yourusername.github.io/app-ads.txt
 
