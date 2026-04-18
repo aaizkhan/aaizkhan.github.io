@@ -2,8 +2,8 @@
 
 This repository hosts GitHub Pages content for:
 
-- Site: https://aaizkhan.github.io/
-- App ads file: https://aaizkhan.github.io/app-ads.txt
+- Site: https://yourusername.github.io/
+- App ads file: https://yourusername.github.io/app-ads.txt
 
 `app-ads.txt` currently contains a placeholder publisher ID. Replace it with your real AdMob publisher ID and keep the format:
 
@@ -11,4 +11,4 @@ This repository hosts GitHub Pages content for:
 
 In Google Play Console, set your Developer Website to:
 
-`https://aaizkhan.github.io`
+`https://yourusername.github.io`
